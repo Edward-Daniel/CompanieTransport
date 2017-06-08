@@ -1,0 +1,33 @@
+{
+  "name": "companie_transport",
+  "version": "1.0.0",
+  "description": "Proiect NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Working boyyyyyy'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edward-Daniel/CompanieTransport.git"
+  },
+  "keywords": [
+    "RestFULL",
+    "ExpressJs"
+  ],
+  "author": "Eduardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Edward-Daniel/CompanieTransport/issues"
+  },
+  "homepage": "https://github.com/Edward-Daniel/CompanieTransport#readme",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "bower": "^1.8.0",
+    "ejs": "^2.5.6",
+    "express": "^4.15.3",
+    "mongoose": "^4.10.5"
+  }
+}
